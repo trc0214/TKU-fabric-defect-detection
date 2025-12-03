@@ -1,0 +1,1 @@
+the training data should be stored in ./texture_train_images with the form of {img_name}.png + {img_name}_groundtruth.png

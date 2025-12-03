@@ -1,0 +1,7 @@
+.vscode/
+__pycache__/
+.env/
+.venv/
+texture_test_images/*
+texture_test_videos/*
+texture_train_images/*
