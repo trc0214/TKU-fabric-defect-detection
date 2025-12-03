@@ -16,6 +16,7 @@ results_skimage/
 results_yolo/
 results_real/
 results_images/
+texture_result_images/
 
 # Local test images & videos
 texture_test_images/
