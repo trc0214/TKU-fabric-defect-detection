@@ -1,0 +1,14 @@
+# Requirements for final-1.ipynb
+# Pinned to versions from the current notebook kernel
+numpy==2.2.6
+matplotlib==3.10.7
+opencv-python==4.12.0.88
+scikit-image==0.25.2
+scipy==1.16.2
+torch==2.9.1+cpu
+torchvision==0.24.1+cpu
+jupyter==1.1.1
+notebook==7.4.7
+ipykernel==6.30.1
+widgetsnbextension==4.0.14
+ipywidgets==8.1.7
