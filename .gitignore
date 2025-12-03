@@ -15,11 +15,12 @@ results_proposal_best/
 results_skimage/
 results_yolo/
 results_real/
+results_images/
 
-# Local test images
-texture test images/
-testure test images/
-real_test_images/
+# Local test images & videos
+texture_test_images/
+texture_test_videos/
+real_test_images/*
 
 # Model weights and large binaries
 *.pt
@@ -31,10 +32,6 @@ Thumbs.db
 .DS_Store
 desktop.ini
 
-.vscode/
-__pycache__/
+# Environment files
 .env/
 .venv/
-texture_test_images/*
-texture_test_videos/*
-texture_train_images/*
