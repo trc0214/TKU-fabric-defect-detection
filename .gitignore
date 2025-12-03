@@ -1,3 +1,36 @@
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data & results (regenerate locally)
+results_advanced/
+results_edge_aug/
+results_hybrid/
+results_proposal/
+results_proposal_best/
+results_skimage/
+results_yolo/
+results_real/
+
+# Local test images
+texture test images/
+testure test images/
+real_test_images/
+
+# Model weights and large binaries
+*.pt
+*.pth
+*.onnx
+
+# OS/OneDrive noise
+Thumbs.db
+.DS_Store
+desktop.ini
+
 .vscode/
 __pycache__/
 .env/
